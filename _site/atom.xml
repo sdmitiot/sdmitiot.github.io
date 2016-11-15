@@ -4,7 +4,7 @@
  <title>SDMIT-IOT</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-15T09:48:37+05:30</updated>
+ <updated>2016-11-15T10:02:01+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -21,7 +21,7 @@
   Howdy! This is the first blog post detailing the topics and the instructors who will be taking them up.
 &lt;/div&gt;
 
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+&lt;h3 id=&quot;topics&quot;&gt;Topics.&lt;/h3&gt;
 
 &lt;p&gt;The topics include.:&lt;/p&gt;
 
@@ -33,22 +33,7 @@
       &lt;th&gt;Instructor&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-		Technical Talks
-		Seminars
-		Workshop 
-		Training Programs
-		Summer Term and Winter Term Courses 
-		Projects Design and Implementation
-		Publication of Research  Papers and  Patents 
-		Consultancy
-		Entrepreneurship 
-		Internship 
-		Conference 
-		Competitions 
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
+
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;01&lt;/td&gt;
@@ -87,6 +72,21 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h3 id=&quot;activities&quot;&gt;Activities:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Technical Talks&lt;/li&gt;
+  &lt;li&gt;Seminars, Workshop&lt;/li&gt;
+  &lt;li&gt;Training Programs&lt;/li&gt;
+  &lt;li&gt;Summer Term and Winter Term Courses&lt;/li&gt;
+  &lt;li&gt;Projects Design and Implementation&lt;/li&gt;
+  &lt;li&gt;Publication of Research  Papers and  Patents&lt;/li&gt;
+  &lt;li&gt;Consultancy&lt;/li&gt;
+  &lt;li&gt;Entrepreneurship&lt;/li&gt;
+  &lt;li&gt;Internship&lt;/li&gt;
+  &lt;li&gt;Conference&lt;/li&gt;
+  &lt;li&gt;Competitions&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 
