@@ -4,27 +4,34 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Welcome to the official page of SDMIT -IOT Club.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
+## Objectives
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* To become a center of excellence in the domain of IoT and its applications. 
+* To enable the students to get placement and internship in reputed IoT industries.
+* To publish high quality research articles and patents in the domain of IoT.
+* To get research grants, profitable projects and consultancy work in the domain of IoT.
+* To Design and implement the IoT based real-time projects and products useful for the betterment of Society in all realms.
+* To establish MoU with reputed industry, institute and University in order to dissipate the IoT Knowledge across the globe. 
+* To share the Knowledge of IoT to  students / Faculty members of primary school , high school , PUC , UG and PG of Science ,Technology , Medicine ,     Management and Agriculture through conducting Seminars , Training Programs , Workshop and Conference in collaboration with experts from premier Industry , Institutes and University.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Areas of Application under consideration.
+* Defence and Security 
+* Environmental Monitoring 
+* Infrastructure Management 
+* Energy Management
+* Medical and Health Care
+* Building and Home Automation 
+* Transportation 
+* Consumer Application 
+* Media and Entertainment 
+* Education and  Research 
+
 
 Thanks for reading!
