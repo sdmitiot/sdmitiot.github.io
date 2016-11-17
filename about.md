@@ -7,19 +7,34 @@ title: About
   Hey there! Welcome to the official page of SDMIT -IOT Club.
 </p>
 
+# Chairman  
+Dr.Thyagaraju G S
+HOD, Dept. of Computer Science.
 
+## Staff-in-Charge.
+Arjun K.
+Assistant Professor, Dept. of Computer Science and Engineering.
 
-## Objectives
+## Student Secretary.
+Mr. Goutam Naik.
+7th Sem, CSE.
 
-Some fun facts about the setup of this project include:
-
-* To become a center of excellence in the domain of IoT and its applications. 
-* To enable the students to get placement and internship in reputed IoT industries.
-* To publish high quality research articles and patents in the domain of IoT.
-* To get research grants, profitable projects and consultancy work in the domain of IoT.
-* To Design and implement the IoT based real-time projects and products useful for the betterment of Society in all realms.
-* To establish MoU with reputed industry, institute and University in order to dissipate the IoT Knowledge across the globe. 
-* To share the Knowledge of IoT to  students / Faculty members of primary school , high school , PUC , UG and PG of Science ,Technology , Medicine ,     Management and Agriculture through conducting Seminars , Training Programs , Workshop and Conference in collaboration with experts from premier Industry , Institutes and University.
+## Student Co-Ordinators.
+* Amith K A               7th Sem CSE.  
+* Pawan Bhat              7th Sem CSE.
+* Piyush                  7th Sem CSE.
+* Vikas                   7th Sem CSE.
+* Abhilash P              5th Sem CSE.
+* Abhilash S              5th Sem CSE.
+* Ahana Jain              5th Sem CSE.
+* Bhavya 	              5th Sem CSE.
+* Hemanth Shenoy          5th Sem CSE.
+* Karan Kumar             5th Sem CSE.
+* Kasim 	              5th Sem CSE.
+* Lavanya Jain            5th Sem CSE.
+* Nidhi D		          5th Sem CSE.
+* Sachin                  5th Sem CSE.
+* Trupti 		          5th Sem CSE.  
 
 ## Areas of Application under consideration.
 * Defence and Security 
