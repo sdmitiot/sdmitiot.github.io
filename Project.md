@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events.
+title: Projects.
 ---
 
 ## Areas of Application under consideration.
@@ -13,4 +13,4 @@ title: Events.
 * Transportation
 * Consumer Application
 * Media and Entertainment
-* Education and  Research 
+* Education and  Research
