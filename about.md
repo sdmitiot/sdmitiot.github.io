@@ -16,12 +16,12 @@ Arjun K.
 Assistant Professor, Dept. of Computer Science and Engineering.
 
 ## Student Secretary.
-Mr. Goutam Naik.
+Mr. Goutam Naik, Mr. Amith K A.  
+
 7th Sem, CSE.
 
 ## Student Co-Ordinators.
-* Amith K A               7th Sem CSE.  
-* Pawan Bhat              7th Sem CSE.
+* Pavan Bhat              7th Sem CSE.
 * Piyush                  7th Sem CSE.
 * Vikas                   7th Sem CSE.
 * Abhilash P              5th Sem CSE.
@@ -34,7 +34,13 @@ Mr. Goutam Naik.
 * Lavanya Jain            5th Sem CSE.
 * Nidhi D		          5th Sem CSE.
 * Sachin                  5th Sem CSE.
-* Trupti 		          5th Sem CSE.  
+* Trupti 		          5th Sem CSE.
+
+## Web Resource Co-Ordinators  
+### Arjun K.
+* Vipin Rai.
+* Karthik D.
+* Anoop Jain.
 
 
 Thanks for reading!

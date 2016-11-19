@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>SDMIT-IOT</title>
+ <title>SDMIT-IOT Club.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-16T22:57:20+05:30</updated>
+ <updated>2016-11-19T11:33:24+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,12 +13,23 @@
 
  
  <entry>
+   <title>Welcome.</title>
+   <link href="http://localhost:4000/2016/11/19/Weblaunch/"/>
+   <updated>2016-11-19T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2016/11/19/Weblaunch</id>
+   <content type="html">&lt;h3 id=&quot;department-of-computer-science-and-engineering&quot;&gt;Department of Computer Science and Engineering.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/picture_welcome.png&quot; alt=&quot;Welcome&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Courses.</title>
    <link href="http://localhost:4000/2016/11/15/Courses/"/>
    <updated>2016-11-15T00:00:00+05:30</updated>
    <id>http://localhost:4000/2016/11/15/Courses</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is the first blog post detailing the topics and the instructors who will be taking them up.
+  This is the first blog post detailing the topics and the instructors who will be taking them up.
 &lt;/div&gt;
 
 &lt;h3 id=&quot;topics&quot;&gt;Topics.&lt;/h3&gt;
