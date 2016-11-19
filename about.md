@@ -36,8 +36,10 @@ Mr. Goutam Naik, Mr. Amith K A.
 * Sachin                  5th Sem CSE.
 * Trupti 		          5th Sem CSE.
 
-## Web Resource Co-Ordinators  
-### Arjun K.
+## Web Resource Co-Ordinators
+ 
+### Arjun K.  
+
 * Vipin Rai.
 * Karthik D.
 * Anoop Jain.
